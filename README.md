@@ -1,4 +1,4 @@
-# AI Betu — Career Tools
+# AI — Career Tools
 
 A lightweight, single-page web app with five AI-powered career tools. Built with Next.js (App Router), deployed on Vercel.
 
